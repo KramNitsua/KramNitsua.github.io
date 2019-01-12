@@ -1381,6 +1381,10 @@ body {
     flex: auto!important;
   }
 }
-.cid-reYY6ngD4A {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+.cid-reZ8JLxIX3 {
+  background-image: url("../../../assets/images/mbr-1920x1500.jpg");
+}
+.cid-reZ8JLxIX3 .mbr-text,
+.cid-reZ8JLxIX3 .mbr-section-btn {
+  text-align: center;
 }
